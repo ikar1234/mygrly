@@ -1,6 +1,7 @@
 # MYGRLY
 
 Web app for creating, editing and sharing galleries.
+Made with the MEVN stack.
 
 ## Project setup
 ```
