@@ -1,4 +1,4 @@
-# movies
+# MYGRLY
 
 Web app for creating, editing and sharing galleries.
 
